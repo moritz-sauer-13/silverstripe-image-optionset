@@ -1,3 +1,5 @@
+This is a form from unclecheese/silverstripe-image-optionset with SilverStripe 5 Support
+
 # Image OptionsetField
 
 Provides a list of selectable items that use images as the primary label instead of text.
