@@ -1,5 +1,5 @@
 {
-    "name": "unclecheese/silverstripe-image-optionset",
+    "name": "moritz-sauer-13/silverstripe-image-optionset",
     "description": "Provides a list of selectable items that use images as the primary label instead of text.",
     "type": "silverstripe-vendormodule",
     "keywords": ["silverstripe", "optionsetfield", "image", "radio"],
