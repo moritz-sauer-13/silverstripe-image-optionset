@@ -10,7 +10,7 @@ Provides a list of selectable items that use images as the primary label instead
 
 
 ## Installation
-`composer require unclecheese/silverstripe-image-optionset`
+`composer require moritz-sauer-13/silverstripe-image-optionset`
 
 ## Configuration
 
